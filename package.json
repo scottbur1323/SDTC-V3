@@ -22,7 +22,8 @@
   "homepage": "https://github.com/scottbur1323/SDTC-V3#readme",
   "dependencies": {
     "cors": "^2.8.4",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "node": "^9.8.0"
   },
   "engines": {
     "node": "8.9.1"
