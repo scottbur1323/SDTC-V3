@@ -1,0 +1,30 @@
+{
+  "name": "myexpressappv3",
+  "version": "1.0.0",
+  "description": "Third drill for a school exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottbur1323/SDTC-V3.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Chance Scott-Burke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottbur1323/SDTC-V3/issues"
+  },
+  "homepage": "https://github.com/scottbur1323/SDTC-V3#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  },
+  "engines": {
+    "node": "8.9.1"
+  }
+}
