@@ -21,8 +21,8 @@ app.get('/', function(req, res) {
 app.get("/:id", function (req, res) {
   var studentById = findById(data, req.params.id)
   if (studentById) {
-    res.json({studentById})
-  } else res.status(404).json({error: {"message": "No record found!"}})
+    res.json({"data": studentById})
+  } else res.status(404).json({"error": {"message": "No record found!"}})
 })
 
 console.log("Running on port: " + port)
