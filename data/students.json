@@ -1,31 +1,31 @@
 [{
     "id": "1",
-    "first-name": "Alice",
-    "last-name": "Zephyr",
-    "home-town": "Seattle"
+    "firstName": "Alice",
+    "lastName": "Zephyr",
+    "homeTown": "Seattle"
   },
   {
     "id": "2",
-    "first-name": "Bob",
-    "last-name": "Yellow",
-    "home-town": "Vancouver"
+    "firstName": "Bob",
+    "lastName": "Yellow",
+    "homeTown": "Vancouver"
   },
   {
     "id": "3",
-    "first-name": "Claire",
-    "last-name": "Xylitol",
-    "home-town": "Toledo"
+    "firstName": "Claire",
+    "lastName": "Xylitol",
+    "homeTown": "Toledo"
   },
   {
     "id": "4",
-    "first-name": "Daniel",
-    "last-name": "Winston",
-    "home-town": "Akron"
+    "firstName": "Daniel",
+    "lastName": "Winston",
+    "homeTown": "Akron"
   },
   {
     "id": "5",
-    "first-name": "Edina",
-    "last-name": "Veritas",
-    "home-town": "Wichita"
+    "firstName": "Edina",
+    "lastName": "Veritas",
+    "homeTown": "Wichita"
   }
 ]
